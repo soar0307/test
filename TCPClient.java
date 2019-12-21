@@ -8,7 +8,7 @@ package socket;
           輸入quit離開 
 */
 
-
+   bbb
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
